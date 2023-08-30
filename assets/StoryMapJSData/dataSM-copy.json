@@ -1,0 +1,217 @@
+{
+    "storymap": {
+        "slides": [
+            {
+                "type": "overview",
+                "date": "2022", 
+                "background": {
+                    "url": null,
+                    "color": "#015218",
+                    "opacity": 50
+                },
+                "location": {
+                    "lat": 21.263090,
+                    "lon": -98.791634,
+                    
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "",
+                    "text":"<div id=\"carouselExampleControls\" class=\"carousel slide\" data-bs-ride=\"carousel\"><div class=\"carousel-inner\"><div class=\"carousel-item active\"><img src=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\" class=\"d-block w-100\" alt=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\"></div><div class=\"carousel-item\"><img src=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\" class=\"d-block w-100\" alt=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\"></div><div class=\"carousel-item\"><img src=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\" class=\"d-block w-100\" alt=\"https://www.eluniversal.com.mx/sites/default/files/2022/05/31/san-luis-potosi.jpg\"></div></div><button class=\"carousel-control-prev\" type=\"button\" data-bs-target=\"#carouselExampleControls\" data-bs-slide=\"prev\"><span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span><span class=\"visually-hidden\">Previous</span></button><button class=\"carousel-control-next\" type=\"button\" data-bs-target=\"#carouselExampleControls\" data-bs-slide=\"next\"><span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span><span class=\"visually-hidden\">Next</span></button><br/><h3>Tamazunchale</h3><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/><strong>El Sergio se la come completa.</strong><br/></div>"
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 21.385090,
+                    "lon": -98.990379,
+                    "name": "Xilitla",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Xilitla",
+                    "text": "Inversión de $8,258,116.80"
+                },
+                "media": {
+                    "url": "https://www.elsoldesanluis.com.mx/incoming/qhxl5n-ricardo-gallardo-a-xilitla-1.jpg/alternates/LANDSCAPE_768/Ricardo%20Gallardo%20a%20Xilitla%20(1).jpg",
+                    "credit": "EL SOL DE SAN LUIS",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 21.597090,
+                    "lon": -98.966980,
+                    "name": "Tancanhuitz",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Tancanhuitz",
+                    "text": "Inversión de: $7,833,039.30"
+                },
+                "media": {
+                    "url": "https://opinionpublicaslp.com/images/2021/Diciembre/03/IMG-20211203-WA0052.jpg",
+                    "credit": "OPINION PUBLICA SLP",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 22.210240,
+                    "lon": -98.379460,
+                    "name": "Ebano",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Ebano",
+                    "text": "Inversión de: $7,833,039.30"
+                },
+                "media": {
+                    "url": "https://cn13.tv/wp-content/uploads/2022/05/PHOTO-2022-05-06-15-30-01-696x464.jpg",
+                    "credit": "CANAL 13",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 21.922540,
+                    "lon": -99.391620,
+                    "name": "Tamasopo",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Tamasopo",
+                    "text": "Inversión de: $7,833,039.30"
+                },
+                "media": {
+                    "url": "https://imagenes.razon.com.mx/files/image_940_470/uploads/2022/04/19/625f2692e0d29.jpeg",
+                    "credit": "RAZON",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 22.39973,
+                    "lon": -99.53230,
+                    "name": "Ciudad del maíz",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Ciudad del maíz",
+                    "text": "Inversión de: $7,833,039.30"
+                },
+                "media": {
+                    "url": "https://dif.slp.gob.mx/wp-content/uploads/2022/06/100622-2293-DIF-MUJERES-DE-CIUDAD-DEL-MAI%CC%81Z-RECIBEN-KITS-MENSTRUALES-1-1024x682.jpeg",
+                    "credit": "GOB SLP",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 21.942222,
+                    "lon": -100.010833,
+                    "name": "Ciudad Fernández",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Ciudad Fernández",
+                    "text": "Inversión de: $7,977,259.68"
+                },
+                "media": {
+                    "url": "https://i0.wp.com/www.revistapuntodevista.com.mx/wp-content/uploads/2022/06/Ricardo-Gallardo-300622-1.jpg?resize=500%2C333&ssl=1",
+                    "credit": "PUNTO DE VISTA SLP",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 22.43245,
+                    "lon": -100.28527,
+                    "name": "Cerritos",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Cerritos",
+                    "text": "Inversión de: $5,823,064.98"
+                },
+                "media": {
+                    "url": "https://eosnoticiasslp.mx/wp-content/uploads/2021/12/0EB7A518-FC14-4D91-8082-1DF352336920.jpeg",
+                    "credit": "EOS NOTICIAS",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 22.036932,
+                    "lon": -100.731539,
+                    "name": "Villa de Zaragoza",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Villa de Zaragoza",
+                    "text": "Inversión de: $5,823,064.98"
+                },
+                "media": {
+                    "url": "https://i0.wp.com/sanluisatiempo.com/wp-content/uploads/2021/11/181121-0428-GOBERNADOR-RICARDO-GALLARDO-CUMPLE-A-ZARAGOZA-Y-VILLA-DE-REYES-CON-BECAS-ALIMENTARIAS-2.jpeg?w=800",
+                    "credit": "SLP A TIEMPO",
+                    "caption": ""
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat": 21.9817466,
+                    "lon": -101.2135656,
+                    "name": "Villa de Arriaga",
+                    "zoom": 12,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "Villa de Arriaga",
+                    "text": "Inversión de: $5,823,064.98"
+                },
+                "media": {
+                    "url": "https://i0.wp.com/www.revistapuntodevista.com.mx/wp-content/uploads/2021/11/Ricardo-Gallardo-141121-3.jpg?fit=500%2C333&ssl=1",
+                    "credit": "PUNTO DE VISTA SLP",
+                    "caption": ""
+                }
+            }
+            
+        ]
+    }
+}

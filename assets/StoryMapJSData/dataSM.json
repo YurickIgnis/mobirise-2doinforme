@@ -1,0 +1,105 @@
+{
+    "storymap": {
+
+        "slides": [
+          
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat":80,
+                    "lon": -137,
+                    "name": "REGION ALTIPLANO",
+                    "zoom": 4,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "REGION ALTIPLANO",
+                    "text": "Inversión de $8,258,116.80 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<br/><button class='btn btn-success' > Ver galeria </button>"
+                },
+                "media": {
+                    "url": "https://cn13.tv/wp-content/uploads/2021/03/RGC-EN-TAMAZUNCHALE-9-1024x682.jpg",
+                     "width": 1000,           
+                     "height": 1000 
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat":75,
+                    "lon": -137,
+                    "name": "REGION CENTRO",
+                    "zoom": 4.5,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "REGION CENTRO",
+                    "text": "Inversión de $8,258,116.80 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<br/><button class='btn btn-success' > Ver galeria </button>"
+                },
+                "media": {
+                    "url": "https://cn13.tv/wp-content/uploads/2021/03/RGC-EN-TAMAZUNCHALE-9-1024x682.jpg",
+                     "width": 1000,           
+                     "height": 1000 
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat":75,
+                    "lon": -110,
+                    "name": "REGION MEDIA",
+                    "zoom": 4,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "REGION MEDIA",
+                    "text": "Inversión de $8,258,116.80 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<br/><button class='btn btn-success' > Ver galeria </button>"
+                },
+                "media": {
+                    "url": "https://cn13.tv/wp-content/uploads/2021/03/RGC-EN-TAMAZUNCHALE-9-1024x682.jpg",
+                     "width": 1000,           
+                     "height": 1000 
+                }
+            },
+            {
+                "uniqueid": "",
+                "date": "2022",
+                "location": {
+                    "lat":75,
+                    "lon": -90,
+                    "name": "REGION HUASTECA",
+                    "zoom": 4.5,
+                    "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                    "line": true
+                },
+                "text": {
+                    "headline": "REGION HUASTECA",
+                    "text": "Inversión de $8,258,116.80 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<br/><button class='btn btn-success' > Ver galeria </button>"
+                },
+                "media": {
+                    "url": "https://cn13.tv/wp-content/uploads/2021/03/RGC-EN-TAMAZUNCHALE-9-1024x682.jpg",
+                     "width": 1000,           
+                     "height": 1000 
+                }
+            }
+           
+            
+        ],
+        "zoom": 3,
+        "map_background_color": "#000000",
+        "map_as_image": true,
+        "zoomify": {
+            "path": "http://micromars.com.mx/mapa/",
+            "tolerance": 0.9,
+            "attribution": "",
+            "width": 20000,
+            "height": 9000
+          },
+          "map_type": "zoomify"
+    }
+}
